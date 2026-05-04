@@ -1,0 +1,6 @@
+{
+  "name": "Madrasa MS",
+  "description": "A comprehensive Madrasa Management System with student/staff management, fees collection (₹), ID card printing, role-based access, and multi-language support (English, Bangla, Urdu).",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
