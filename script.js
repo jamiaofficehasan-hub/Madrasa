@@ -1,0 +1,1 @@
+const d=new Date("2026-12-20T19:00:00");setInterval(()=>{let t=d-new Date();if(t<0){count.innerText="অনুষ্ঠান শুরু হয়েছে";return}let days=Math.floor(t/86400000);count.innerText="আর বাকি "+days+" দিন";},1000);
